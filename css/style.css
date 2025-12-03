@@ -1,0 +1,49 @@
+/* Add all your styles here */
+
+body{
+    background-color:lightblue;
+     
+    
+}
+header{
+    background-color:skyblue;
+   width:100%;
+}
+a{
+    display:inline-block;
+    font-family:arial black;
+    color:Black;
+}
+#gang{
+  text-align:center; 
+  margin:150px ;
+}
+#card_1{
+    overflow:scroll;
+   box-shadow:white 0px 2px 1px 1.5px;
+}
+#card_2{
+   
+      box-shadow:white 0px 2px 1px 1.5px;
+}
+#card_3{
+  
+   box-shadow:white 0px 2px 1px 1.5px;
+}
+img{
+    border-radius:70px;
+    width:70px;
+    height:70px;
+}
+h2 {
+color:green;
+
+}
+footer{
+position: absolute;
+right:6px;
+width:98%;
+    text-align:center;
+    background-color: darkblue;
+    color:white;
+}
